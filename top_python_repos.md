@@ -1,4 +1,4 @@
-# Top 5 Python Repositories (Stars > 1000)
+# Top 5 Python Repositories with >1000 Stars
 
 1. public-apis -- https://github.com/public-apis/public-apis
 2. free-programming-books -- https://github.com/EbookFoundation/free-programming-books
